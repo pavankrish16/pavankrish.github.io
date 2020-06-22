@@ -72,7 +72,7 @@ body{
 	margin-top: 5%;
 	margin-bottom: -1%;
 	color: black;
-	font-family: "Mistral", "Algerian","brandon-grotesque-n7","brandon-grotesque", sans-serif;
+	font-family: "Mistral", "Algerian","Georgia","Arial", sans-serif;
 	font-size:170px;
 	text-align: center;
 	transition: 1.0s ease;
@@ -301,6 +301,7 @@ body{
 		padding-top: 10%;
 		font-size: 140px;
 		margin-bottom: 0.5%;
+		font-family: "Mistral", "Algerian","Georgia","Arial", sans-serif;
 	}
 
 	#p{
