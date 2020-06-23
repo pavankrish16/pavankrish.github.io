@@ -2,6 +2,7 @@ html{
 	overflow-x: hidden;
 }
 body{
+	overflow-x:hidden;
 	background-image: url("img/bg.jpg");
 	background-color: #f5f5f5;
 	margin:0;
@@ -269,6 +270,7 @@ body{
 	overflow-x: hidden;
 	}
 	body{
+		overflow-x:hidden;
 		margin: 0;
 		padding: 0;
 	}
@@ -305,7 +307,7 @@ body{
 	#h1{
 		padding-left: 4%;
 		padding-top: 10%;
-		font-size: 140px;
+		font-size: 100px;
 		margin-bottom: 0.5%;
 		font-family: "Mistral", "Algerian","Georgia","Arial", sans-serif;
 	}
