@@ -258,13 +258,6 @@ body{
 
 }
 
-.note{
-	margin-left: 59%;
-	font-size: 15px;
-	margin-top: 1%;
-	color: black;
-}
-
 @media screen and (max-width:1025px){
 	html{
 	overflow-x: hidden;
@@ -411,9 +404,5 @@ body{
 		margin-left: 35%;
 		font-size: 20px;
 		padding: 6px 10px;
-	}
-	.note{
-		margin-left: 65%;
-		margin-top: -5%;
 	}
 }
